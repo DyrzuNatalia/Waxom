@@ -1,0 +1,17 @@
+.conteiner { 
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    width: 170px;
+    background-color: white;
+    padding: 0;}
+.card__title {
+ font-family: SemiBold, Raleway,  sans-serif;
+    font-size: 22px;
+}
+card__description{
+  font-family: Montserrat Light, Light, sans-serif;
+      font-size: 14px;
+}
+    

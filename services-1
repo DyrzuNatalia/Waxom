@@ -1,0 +1,27 @@
+<!-- SERVICES -->
+    <section class="services">
+      <h2 class="visually-hidden">Our services</h2>
+      <div class="container">
+        <div class="card">
+          <div class="card__icon card__icon--design"></div>
+          <h3 class="card__title">Web & App Design</h3>
+          <p class="card__description">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim.</p>
+        </div>
+        <div class="card">
+          <div class="card__icon card__icon--development"></div>
+          <h3 class="card__title">Development</h3>
+          <p class="card__description">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim.</p>
+        </div>
+        <div class="card">
+          <div class="card__icon card__icon--customization"></div>
+          <h3 class="card__title">Customization</h3>
+          <p class="card__description">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim.</p>
+        </div>
+        <div class="card">
+          <div class="card__icon card__icon--marketing"></div>
+          <h3 class="card__title">Marketing</h3>
+          <p class="card__description">Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim.</p>
+        </div>
+      </div>
+    </section>
+    <!-- /SERVICES -->

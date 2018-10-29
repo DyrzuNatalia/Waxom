@@ -7,6 +7,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: 'Montserrat', sans-serif;
   
 }
 
@@ -49,7 +50,7 @@ body {
 
 .promo {
   
-  min-height: 768px;
+  min-height: 600px;
   height: 100vh;
   background-color: #000000;
   background-image: url("../img/section-one.jpg");
@@ -57,5 +58,19 @@ body {
   background-position: center top;
   background-size: cover;
   color: var(--txt-color-invert);
+  
+}
+
+.services {
+  
+  padding: 80px 0;
+  background-color: #ffffff;
+  
+}
+
+.services .container {
+  
+  display: flex;
+  flex-direction: row;
   
 }
